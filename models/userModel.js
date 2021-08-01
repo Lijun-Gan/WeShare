@@ -27,7 +27,7 @@ const userSchema = new mongoose.Schema({
     },
     avatar:{
         type: String,
-        default: 'https://res.cloudinary.com/creative-builder/image/upload/v1627335706/WeShare/avatar_cugq40_sp1who.png'
+        default: 'https://res.cloudinary.com/creative-builder/image/upload/v1627792946/WeShare/avatar_cugq40_ocwbvk.png'
     },
     role: {type: String, default: 'user'},
     gender: {type: String, default: 'male'},
