@@ -1,2 +1,2 @@
-// export const BASE_URL = 'https://v-network-devat.herokuapp.com'
-export const BASE_URL = 'https://google.com'
+export const BASE_URL = 'https://we-share2021.herokuapp.com/'
+// export const BASE_URL = 'https://google.com'
